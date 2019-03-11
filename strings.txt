@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Forfeit</string>
+    <string name="choose_from_gallery">Choose from gallery</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="host">http://192.168.43.177:8080/TSystem/</string>
+    <string-array name="reasons">
+        <item>Wrong parking</item>
+        <item> No Helmet</item>
+        <item>Over speed</item>
+        <item>Drunk and Drive</item>
+        <item>License Issue</item>
+        <item>Triple Riding</item>
+        <item>Wrong Number Plate Format</item>
+
+
+    </string-array>
+
+    <string-array name="fines">
+        <item>200</item>
+        <item> 300</item>
+        <item>500</item>
+        <item>600</item>
+        <item>1000</item>
+        <item>500</item>
+        <item>300</item>
+
+
+    </string-array>
+</resources>
